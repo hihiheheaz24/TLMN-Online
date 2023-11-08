@@ -1,5 +1,10 @@
 {
     "ConfigUrl": "https://apis.vpl.mobi/api/config/gconfbd46a2b5fadcbc",
     "BundleUrl": "https://bundless.vpl.mobi/Full/VPlay/",
-    "isUpdate": false
-  }
+    "isUpdate": false,
+    "dataSupport": {
+        "HotSmsFanpage": "https://m.me/103958502485282",
+        "Fanpage": "https://www.facebook.com/profile.php?id=100086076950863",
+        "HotLine": "045435646"
+    }
+}
